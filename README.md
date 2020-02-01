@@ -13,4 +13,4 @@ Google chrome, Firefox Mozzila, Opera, Yandex browser, Safari
 ## Git. Инструкция по установке
 перейти[сюда]( https://github.com/netology-code/guides/blob/master/git/REAMDE.md) и учтановить 
 ## Лицензия
-Этот проект лицензируется в соответствии с лицензией MIT
+© 2018 NeuroStartUp. Все права защищены.
